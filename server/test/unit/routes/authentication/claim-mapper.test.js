@@ -1,3 +1,4 @@
+
 const claimMapper = require('../../../../routes/authentication/claim-mapper.js');
 
 const response = { 
